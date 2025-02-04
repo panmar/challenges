@@ -1,7 +1,5 @@
 # Programming challenges:
 
-# Code me if you can
-
 1. [Hack](https://en.wikipedia.org/wiki/Hack_computer) computer emulator
    * inspired by a [book](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686)
    * start from NAND gate
